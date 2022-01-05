@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 92ee5b3da31b1174f890d3b56d0a4954
+timeCreated: 1440162563
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RetopoGroup002
+    100004: RetopoGroup003
+    100006: RetopoGroup004
+    100008: RetopoGroup005
+    100010: RetopoGroup006
+    100012: RetopoGroup007
+    100014: RetopoGroup008
+    100016: RetopoGroup009
+    100018: RetopoGroup010
+    100020: RetopoGroup011
+    100022: RetopoGroup012
+    100024: RetopoGroup013
+    100026: RetopoGroup014
+    100028: RetopoGroup015
+    100030: RetopoGroup016
+    100032: RetopoGroup017
+    100034: RetopoGroup018
+    100036: RetopoGroup019
+    100038: RetopoGroup020
+    100040: RetopoGroup1
+    400000: //RootNode
+    400002: RetopoGroup002
+    400004: RetopoGroup003
+    400006: RetopoGroup004
+    400008: RetopoGroup005
+    400010: RetopoGroup006
+    400012: RetopoGroup007
+    400014: RetopoGroup008
+    400016: RetopoGroup009
+    400018: RetopoGroup010
+    400020: RetopoGroup011
+    400022: RetopoGroup012
+    400024: RetopoGroup013
+    400026: RetopoGroup014
+    400028: RetopoGroup015
+    400030: RetopoGroup016
+    400032: RetopoGroup017
+    400034: RetopoGroup018
+    400036: RetopoGroup019
+    400038: RetopoGroup020
+    400040: RetopoGroup1
+    2300000: RetopoGroup002
+    2300002: RetopoGroup003
+    2300004: RetopoGroup004
+    2300006: RetopoGroup005
+    2300008: RetopoGroup006
+    2300010: RetopoGroup007
+    2300012: RetopoGroup008
+    2300014: RetopoGroup009
+    2300016: RetopoGroup010
+    2300018: RetopoGroup011
+    2300020: RetopoGroup012
+    2300022: RetopoGroup013
+    2300024: RetopoGroup014
+    2300026: RetopoGroup015
+    2300028: RetopoGroup016
+    2300030: RetopoGroup017
+    2300032: RetopoGroup018
+    2300034: RetopoGroup019
+    2300036: RetopoGroup020
+    2300038: RetopoGroup1
+    3300000: RetopoGroup002
+    3300002: RetopoGroup003
+    3300004: RetopoGroup004
+    3300006: RetopoGroup005
+    3300008: RetopoGroup006
+    3300010: RetopoGroup007
+    3300012: RetopoGroup008
+    3300014: RetopoGroup009
+    3300016: RetopoGroup010
+    3300018: RetopoGroup011
+    3300020: RetopoGroup012
+    3300022: RetopoGroup013
+    3300024: RetopoGroup014
+    3300026: RetopoGroup015
+    3300028: RetopoGroup016
+    3300030: RetopoGroup017
+    3300032: RetopoGroup018
+    3300034: RetopoGroup019
+    3300036: RetopoGroup020
+    3300038: RetopoGroup1
+    4300000: RetopoGroup1
+    4300002: RetopoGroup002
+    4300004: RetopoGroup003
+    4300006: RetopoGroup004
+    4300008: RetopoGroup005
+    4300010: RetopoGroup006
+    4300012: RetopoGroup007
+    4300014: RetopoGroup008
+    4300016: RetopoGroup009
+    4300018: RetopoGroup010
+    4300020: RetopoGroup011
+    4300022: RetopoGroup012
+    4300024: RetopoGroup013
+    4300026: RetopoGroup014
+    4300028: RetopoGroup015
+    4300030: RetopoGroup016
+    4300032: RetopoGroup017
+    4300034: RetopoGroup018
+    4300036: RetopoGroup019
+    4300038: RetopoGroup020
+    9500000: //RootNode
+    11400000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MushrumBog
+  m_Shader: {fileID: 4800000, guid: a2991a03359ecf049a1a006c200406cc, type: 3}
+  m_ShaderKeywords: _SMOOTHFROMMAPSWITCH_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Albedo:
+        m_Texture: {fileID: 2800000, guid: 633b6ee0227e1c845b0e7210f8989a5d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cubemap:
+        m_Texture: {fileID: 8900000, guid: 2b9f65f9313cb424c9fe4ae3882fc5e1, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubemapBlured:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cubmap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Diffuse:
+        m_Texture: {fileID: 2800000, guid: 633b6ee0227e1c845b0e7210f8989a5d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeightMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _IllumText:
+        m_Texture: {fileID: 2800000, guid: 8e8cd9a97e6385a4789ea0809a988c25, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 5fff2929480db4c4ea945f69824369e7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Shining:
+        m_Texture: {fileID: 2800000, guid: 3e78002c452c88347ae808eb7919b211, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SmoothnessMap:
+        m_Texture: {fileID: 2800000, guid: 3e78002c452c88347ae808eb7919b211, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TranslucentText:
+        m_Texture: {fileID: 2800000, guid: 633b6ee0227e1c845b0e7210f8989a5d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _CubeMultiplayer: 1
+    - _EmissionMultiplayer: 0
+    - _EmissionSwitch: 0
+    - _GlossHigh: 0.7169596
+    - _GlossLow: 0.1666343
+    - _HighSpecMultiplayer: 1.91453
+    - _HighSpecMultiplayerN: 1
+    - _MetalicBrightnes: 0
+    - _Metallic: 0
+    - _NormalMapDepth: 1
+    - _ParalaxOffset: 0.001
+    - _SmoothFromMapSwitch: 1
+    - _SmoothRough: 0
+    - _Snoothness: 1
+    - _SpecMetallic: 0
+    - _TilingX: 1
+    - _TilingY: 1
+    - _TranslucentIntens: 4.535714
+    - _TranslucentRange: -1.7857143
+    - __dirty: 1
+    m_Colors:
+    - _AlbedoColor: {r: 0.5708619, g: 0.5943396, b: 0.31679422, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _CubeColor: {r: 0.2264833, g: 0.375, b: 0.17922793, a: 1}
+    - _CubemapColor: {r: 0, g: 0, b: 0, a: 1}
+    - _DiffColor: {r: 0.77205884, g: 0.77205884, b: 0.77205884, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _HighSpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _IllumColor: {r: 0.44852942, g: 0.4285139, b: 0.316609, a: 1}
+    - _LowSpecColor: {r: 0.07352942, g: 0.07352942, b: 0.07352942, a: 1}
+    - _Translucent: {r: 0.45510677, g: 0.8088235, b: 0.28546712, a: 1}
+  m_BuildTextureStacks: []
